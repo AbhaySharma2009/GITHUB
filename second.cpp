@@ -6,4 +6,5 @@ int main(){
 
     cout<<"i am abhay pratap sharma";
     cout<<"i am abhay pratap sharma";
+    cout<<"alta school of technology ";
 }
